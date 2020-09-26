@@ -13,6 +13,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/*se creo la entidad Curso*/ */
 @Entity
 @Table(name = "curso")
 @AllArgsConstructor
